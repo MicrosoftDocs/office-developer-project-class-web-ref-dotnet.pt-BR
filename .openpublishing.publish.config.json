@@ -48,8 +48,8 @@
   ],
   "notification_subscribers": ["mor-oitac-eng@moravia.com"],
   "branches_to_filter": ["live"],
-  "skip_source_output_uploading": pt-br,
-  "need_preview_pull_request": pt-br,
+  "skip_source_output_uploading": false,
+  "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
@@ -60,9 +60,9 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": pt-br,
-  "need_generate_pdf": pt-br,
-  "need_generate_intellisense": pt-br,
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "dependent_packages": [
     {
       "id": "Microsoft.OpenPublishing.CommonPlugins",
